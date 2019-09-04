@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "测试：琵琶行"
-categories: 唐诗
-tags: 白居易 诗歌 唐朝 洗牌
-author: 孙光林
+title: "Fisher–Yates shuffle 洗牌算法"
+categories: JavaScript
+tags: 算法 shuffle 乱序 洗牌
+author: HyG
 ---
 
 - content
@@ -16,6 +16,7 @@ author: 孙光林
     醉不成欢惨将别，别时茫茫江浸月。
     忽闻水上琵琶声，主人忘归客不发。
     寻声暗问弹者谁？琵琶声停欲语迟。
+
 
 
 
