@@ -44,9 +44,8 @@ author: 孙光林
 ---
 &ensp;&ensp;&ensp;
 在如下图所示的存储器层次结构中，从上至下， 设备访问速度**越来越慢**， 容量**越来越大**, 每字节的造价也**越来越便宜**。  
-
 ![avatar](https://github.com/MuXTing/MuXTing.github.io/blob/master/pic/ComputerSystem/Figure1.9.png)
-
+  
 &ensp;&ensp;&ensp;
 可以看到， 存储器层次结构的主要思想是上一层的存储器作为低一层存储器的**高速缓存**。寄存器文件是L1的高速缓存， L1是L2的高速缓存...依次往下。 倘若说上述有点抽象的话， 我来看这样的两句话：  
 >"主存是磁盘的高速缓存"  
