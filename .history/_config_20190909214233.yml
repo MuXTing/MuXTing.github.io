@@ -35,7 +35,7 @@ description_footer: 来自孙光林的个人专栏
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu-analysis: 07777c019156f5cfadf454391a583f6d
+baidu_tongji_id: 07777c019156f5cfadf454391a583f6d
 google_analytics_id: UA-72449510-4 # google 分析追踪id
 
 # Build settings
